@@ -87,3 +87,5 @@ popd > /dev/null
 
 popd > /dev/null
 
+echo "Get the archive at: ${full_path}"
+
